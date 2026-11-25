@@ -47,8 +47,8 @@ Output: [3,4,6,16,17]
 
 **Language:** C  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 11.7 MB (beats 89.03%)  
-**Submitted:** 2026-11-25T10:18:51.146Z  
+**Memory:** 11.9 MB (beats 39.44%)  
+**Submitted:** 2026-11-25T10:19:07.476Z  
 
 ```c
 int* runningSum(int* nums, int numsSize, int* returnSize) {
